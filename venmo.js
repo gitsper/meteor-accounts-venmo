@@ -19,7 +19,8 @@ if (Meteor.isClient) {
       'services.venmo.first_name',
       'services.venmo.last_name',
       'services.venmo.display_name',
-      'services.venmo.profile_picture_url'
+      'services.venmo.profile_picture_url',
+      'services.venmo.id',
     ]
   });
 }
