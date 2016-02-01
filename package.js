@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'gitsper:accounts-venmo',
+  name: 'metper:accounts-venmo',
   version: '0.1.1',
   // Brief, one-line summary of the package.
   summary: 'Venmo account login for Meteor',
