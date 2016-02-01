@@ -1,10 +1,10 @@
 Package.describe({
-  name: 'pcooney10:accounts-venmo',
+  name: 'gitsper:accounts-venmo',
   version: '0.1.1',
   // Brief, one-line summary of the package.
   summary: 'Venmo account login for Meteor',
   // URL to the Git repository containing the source code for this package.
-  git: 'https://github.com/pcooney10/meteor-accounts-venmo',
+  git: 'https://github.com/gitsper/meteor-accounts-venmo',
   // By default, Meteor will default to using README.md for documentation.
   // To avoid submitting documentation, set this field to null.
   documentation: 'README.md'

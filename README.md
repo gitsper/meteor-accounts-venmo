@@ -1,11 +1,15 @@
 ## Venmo account login for meteor
+
+Fork of [pcooney10/meteor-accounts-venmo](https://github.com/pcooney10/meteor-accounts-venmo)
+
+
 Meteor-accounts-venmo was inspired by meteor-accounts-instagram located [here](https://github.com/yubozhao/meteor-accounts-instagram)
 
 ## Install
 
 `cd <your-meteor-project>`
 
-`meteor add pcooney10:accounts-venmo`
+`meteor add metper:accounts-venmo`
 
 and also add following package as pre-req -
 
