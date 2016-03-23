@@ -1,6 +1,6 @@
 Package.describe({
   name: 'metper:accounts-venmo',
-  version: '0.1.2',
+  version: '0.1.3',
   // Brief, one-line summary of the package.
   summary: 'Venmo account login for Meteor',
   // URL to the Git repository containing the source code for this package.
