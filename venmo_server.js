@@ -26,7 +26,7 @@ var getTokenResponse = function (query) {
   var response;
   try {
     response = HTTP.post(
-      "https://api.venmo.com/v1/oauth/access_token", {
+      "https://api.venmo.com/v1/oauth/authorize", {
         params: {
           code: query.code,
           client_id: config.clientId,
